@@ -1,4 +1,4 @@
-# A Lipschitz spaces view of infinitely wide shallow neural networks
+# Training neural networks using a KR penality
 
 This repository contains the experimental source code to reproduce the numerical experiment in Section 8 of:
 
