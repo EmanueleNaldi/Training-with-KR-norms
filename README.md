@@ -15,7 +15,7 @@ If you find this code useful, please cite the above-mentioned paper:
       archivePrefix={arXiv},
       primaryClass={math.FA},
       url={https://arxiv.org/abs/2410.14591}, 
-}
+      }
 ```
 
 ## License  
